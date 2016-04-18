@@ -1,0 +1,1 @@
+apt-get install libx11-dev libxext-dev libxfixes-dev libavcodec-ffmpeg-dev libswscale-ffmpeg-dev
